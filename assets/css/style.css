@@ -980,6 +980,19 @@ section {
   border-radius: 5px;
   margin: 2%;
 }
+
+.resume{
+  background-color: black;
+  color: white;
+  padding: 2%;
+  border-radius: 5px;
+  border: 2px solid white;
+}
+
+.col-md-4{
+  margin-left: 6%;
+}
+
 /* .col-sm-8{
   margin-left: 15%;
 } */
